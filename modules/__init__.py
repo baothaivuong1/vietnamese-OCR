@@ -17,8 +17,7 @@ from tool.config import Config
 from tool.utils import download_pretrained_weights
 
 
-# CACHE_DIR = '.cache'
-CACHE_DIR = '.weights'
+CACHE_DIR = '.cache'
 
 class Preprocess:
     def __init__(

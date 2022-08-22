@@ -8,10 +8,6 @@
 This toolbox provides a pipeline to do OCR in Vietnamese documents (such as receipts, personal id, licenses,...). 
 The project also support flexibility for adaptation.
 
-:bookmark_tabs: More infomation:
-- Report: [link](https://github.com/kaylode/vnm-ocr-toolbox/blob/master/demo/report.pdf)
-- Youtube: [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=DZ6tY0ICXlw)
-
 -------------------------------------------------------------
 <div align="center"> Invoice (from SROIE19 dataset)</div>
 

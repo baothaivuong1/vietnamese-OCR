@@ -5,7 +5,7 @@ import pandas as pd
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-from tool.utils import download_pretrained_weights
+from tool.utils2 import download_pretrained_weights
 sys.path.append("./modules/retrieval/text_classification/libs/")
 
 from customdatasets import MCOCRDataset
